@@ -1,0 +1,20 @@
+p {
+    color: red;
+    font-size: 100px;
+}
+
+.blue-strong {
+    color: blue;
+}
+
+.green-strong {
+    color: green;
+}
+
+#html {
+    color: blue;
+}
+
+#css {
+    color: green;
+}
